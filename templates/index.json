@@ -221,7 +221,7 @@
     "16630020440256d303": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"elfsight-app-247c901f-957d-490d-8dea-1bb7ca12141e\"><\/div>\n\n<script>\nfunction loadScript()\n{\n    return \"https:\/\/apps.elfsight.com\/p\/platform.js\"\n}\n<\/script>\n\n<button onclick=\"loadScript()\">Open vidget<\/button>",
+        "custom_liquid": "<div class=\"elfsight-app-247c901f-957d-490d-8dea-1bb7ca12141e\"><\/div>\n\n<button onclick=\"<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\">Open vidget<\/button>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
