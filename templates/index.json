@@ -217,6 +217,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "16630020440256d303": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-247c901f-957d-490d-8dea-1bb7ca12141e\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -226,6 +235,7 @@
     "collage",
     "video",
     "multicolumn",
-    "1662898467e57bacef"
+    "1662898467e57bacef",
+    "16630020440256d303"
   ]
 }
