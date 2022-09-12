@@ -226,15 +226,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1663015360a712a659": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer=\"\"><\/script>\n\n<div class=\"elfsight-app-c3118b8b-a05d-4ec0-81cc-e3bed2ce35b3\"><div id=\"eapps-form-builder-c3118b8b-a05d-4ec0-81cc-e3bed2ce35b3\" class=\"RootLayout__Component-sc-1doisyz-0 eyarYd eapps-form-builder-c3118b8b-a05d-4ec0-81cc-e3bed2ce35b3-custom-css-hook\" data-app=\"eapps-form-builder\" data-app-version=\"1.4.20\"><\/div><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -245,7 +236,6 @@
     "video",
     "multicolumn",
     "1662898467e57bacef",
-    "16630020440256d303",
-    "1663015360a712a659"
+    "16630020440256d303"
   ]
 }
