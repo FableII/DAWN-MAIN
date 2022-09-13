@@ -290,5 +290,15 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    <!-- add ID -->
+<script>
+  
+const b = document.querySelector("button");
+b.onclick = addId;
+
+function addId(){b.setAttribute('id', 'test_id')};
+</script>
+
+<!-- add ID -->
   </body>
 </html>
