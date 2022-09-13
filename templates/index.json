@@ -214,8 +214,8 @@
       "settings": {
         "custom_liquid": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-2ca6ca36-790b-4053-8672-2a31adb0c17d\"><\/div>",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "16630020440256d303": {
