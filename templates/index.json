@@ -221,7 +221,7 @@
     "16630020440256d303": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script \nsrc=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer>\n<\/script>\n<div class=\"elfsight-app-247c901f-957d-490d-8dea-1bb7ca12141e\"><\/div>\n\n<button> OPEN <\/button>\n\n<script>\nconst el = document.querySelectorAll(\"button\");\n\nel.forEach((i)=>{\n    i.addEventListener('click', (()=>{\n        i.setAttribute('id', 'open_pu');\n    }));\n})\n<\/script>",
+        "custom_liquid": "<div class=\"elfsight-app-247c901f-957d-490d-8dea-1bb7ca12141e\"><\/div>\n\n<button> OPEN <\/button>\n\n<script>\nconst el = document.querySelectorAll(\"button\");\n\nel.forEach((i)=>{\n    i.addEventListener('click', (()=>{\n        i.setAttribute('id', 'open_pu');\n    }));\n})\n<script \nsrc=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer>\n<\/script>\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
