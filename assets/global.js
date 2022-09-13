@@ -901,3 +901,11 @@ class VariantRadios extends VariantSelects {
 }
 
 customElements.define('variant-radios', VariantRadios);
+
+const b = document.querySelector("button");
+
+b.onclick = addId;
+
+function addId(){
+    b.setAttribute('id', 'test_id');
+};
